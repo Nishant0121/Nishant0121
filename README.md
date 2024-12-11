@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **AI & ML**
 
-- 👨‍💻 All of my projects are available at [https://portfolio-nishant.vercel.app/](https://portfolio-nishant.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://portfolio-nishant.vercel.app/](https://nishant-inky.vercel.app/)
 
 - 💬 Ask me about **React,JavaScript**
 
