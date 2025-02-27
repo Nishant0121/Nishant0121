@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nishant Patil</h1>
 <h3 align="center">A passionate Full Stack Developer from India</h3>
 
-- 🔭 I’m currently working on [[CareerDwaar](https://github.com/Nishant0121/CareerDwaar](https://github.com/Nishant0121/CareerDwaar))]
+- 🔭 I’m currently working on [[CareerDwaar](https://github.com/Nishant0121/CareerDwaar])]
 
 - 🌱 I’m currently learning **AI & ML**
 
