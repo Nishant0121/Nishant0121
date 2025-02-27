@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nishant Patil</h1>
 <h3 align="center">A passionate Full Stack Developer from India</h3>
 
-- 🔭 I’m currently working on [N.Shop](https://github.com/Nishant0121/N.Shop)
+- 🔭 I’m currently working on [CareerDwaar]([https://github.com/Nishant0121/N.Shop](https://github.com/Nishant0121/CareerDwaar))
 
 - 🌱 I’m currently learning **AI & ML**
 
@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **nishantpatil0121@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1mlZ1NXL7Yah-sQlDW35MtnRrf92Xf1Lc/view?usp=drive_link](https://drive.google.com/file/d/1mlZ1NXL7Yah-sQlDW35MtnRrf92Xf1Lc/view?usp=drive_link)
+- 📄 Know about my experiences [[https://drive.google.com/file/d/1mlZ1NXL7Yah-sQlDW35MtnRrf92Xf1Lc/view?usp=drive_link](https://drive.google.com/file/d/1mlZ1NXL7Yah-sQlDW35MtnRrf92Xf1Lc/view?usp=drive_link](https://drive.google.com/file/d/1gxzUDjDie3DPpCwd4kpcaobd-tmBhdN6/view?usp=sharing))
 
 - ⚡ Fun fact **I think I have A good Sence Of humor**
 
