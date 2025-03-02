@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **[CareerDwaar](https://github.com/Nishant0121/CareerDwaar)**
 - 🌱 I’m currently learning **AI & ML**
-- 👨‍💻 All of my projects are available at **[My Portfolio](https://portfolio-nishant.vercel.app/)**
+- 👨‍💻 All of my projects are available at **[My Portfolio](https://nishant-inky.vercel.app)**
 - 💬 Ask me about **React, JavaScript**
 - 📫 How to reach me: **nishantpatil0121@gmail.com**
 - 📄 Know about my experiences: **[My Resume](https://drive.google.com/file/d/1gxzUDjDie3DPpCwd4kpcaobd-tmBhdN6/view?usp=sharing)**
